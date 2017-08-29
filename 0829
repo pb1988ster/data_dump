@@ -1,0 +1,22 @@
+
+Things to ask Jimmy :
+1. jira allocation for surbhi - should be done 
+2.jira issues :
+1.	Not able to move Epics across lanes in the OKP Kanban board – Here’s the link of the board. Can you check once?
+https://tracker.wal-mart.com/secure/RapidBoard.jspa?rapidView=5030&projectKey=SOURCERX
+
+2.	There are two OKP cards created in the SPINE board by Santosh. These cards are present in the OKP roadmap because they are tagged to the Sub-initiative OKP.
+Can you remove those cards? Check the link below:
+https://roadmap.walmart.com/#suballocations-1663014
+
+3.	OKP Rewiring: Nick’s query vs OKP queries – This card is present in our board and is ‘In Progress’ but, is not linked to any of the epics. 
+Should this card be moved back to ‘To Do’ lane as nothing should be worked on apart from Backlogs and User Telemetry?
+
+4.	OKP JIRA board Admin access: When I open the link provided by Jimmy, I get the below message. (See screenshot below)
+Should I raise an enable ticket to get access to GEC JIRA?
+
+5. roadmap access and visibility of issues 
+
+6. creation of sprint in jira 
+
+7 . change mapping for chandan buddgiraja from : clarus analytical to SKPGTS (SKP best quality ) project 
